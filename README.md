@@ -1,4 +1,4 @@
-THEOS Tweaks
+THEOS Tweaks edt my kieran minec youtube / twitter
 ============
 
 Tweaks that don't merit their own repositories.
